@@ -25,7 +25,7 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [Text2Speech.org](https://text2speech.org/) - Simple online TTS converter. Free tier: Completely free with no registration.
 - [FreeTTS](https://freetts.com/) - Free online text-to-speech converter. Free tier: Free online text-to-speech with character limits.
 - [Uberduck](https://uberduck.ai/) - AI voice synthesis platform with voice cloning. Free tier: Free to use with limitations on voice cloning.
-
+- [voicetoinstrument.com](https://voicetoinstrument.com) - AI-powered tool that converts voice recordings into instrumental tracks for music production and karaoke creation.
 ### Services with More Restricted Free Tiers
 
 - [Lovo.ai](https://lovo.ai/) - AI-powered TTS with 500+ voices and emotion control. Free tier: 14-day free trial of the Pro plan.
