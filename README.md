@@ -46,6 +46,7 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech) - All-in-one speech processing toolkit. Apache 2.0 License, English, Mandarin Chinese.
 - [Tacotron 2](https://github.com/NVIDIA/tacotron2) - Neural network architecture for speech synthesis. Modified BSD License, primarily English.
 - [FastSpeech 2](https://github.com/ming024/FastSpeech2) - Fast, parallel text-to-speech synthesis. MIT License, primarily English.
+- [loudkit](https://github.com/loudreader/loudkit) - On-device text-to-speech engine with voice cloning and SDKs for Python, Swift, Go, Rust and TypeScript. Apache 2.0 License, 28 voices in 10 languages, runs offline after the model download.
 
 ### Other Programming Languages
 
