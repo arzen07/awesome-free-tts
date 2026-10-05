@@ -64,6 +64,7 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [Microsoft Azure Speech Service](https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/) - Comprehensive speech services including TTS. Free tier: 0.5 million characters per month for neural voices.
 - [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech) - AI-powered TTS with customizable voices. Free tier: 10,000 characters per month.
 - [OpenAI TTS API](https://platform.openai.com/docs/guides/text-to-speech) - High-quality TTS API with natural-sounding voices. Free tier: Available with initial credits.
+- [SpeechifyAI Text-to-Speech API](https://speechify.ai/text-to-speech-api) - Streaming TTS API with SSML, emotion control, and voices in six languages. Free tier: 500,000 characters per month, no credit card required, commercial use allowed.
 
 ## Mobile Apps
 
