@@ -9,6 +9,7 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [Web-Based TTS Services](#web-based-tts-services)
 - [Open Source TTS Libraries](#open-source-tts-libraries)
 - [API Services](#api-services)
+- [Desktop Applications](#desktop-applications)
 - [Mobile Apps](#mobile-apps)
 - [Browser Extensions](#browser-extensions)
 - [Accessibility Tools](#accessibility-tools)
@@ -64,6 +65,10 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [Microsoft Azure Speech Service](https://azure.microsoft.com/en-us/services/cognitive-services/speech-services/) - Comprehensive speech services including TTS. Free tier: 0.5 million characters per month for neural voices.
 - [IBM Watson Text to Speech](https://www.ibm.com/cloud/watson-text-to-speech) - AI-powered TTS with customizable voices. Free tier: 10,000 characters per month.
 - [OpenAI TTS API](https://platform.openai.com/docs/guides/text-to-speech) - High-quality TTS API with natural-sounding voices. Free tier: Available with initial credits.
+
+## Desktop Applications
+
+- [SpeakHarness](https://github.com/Matheuscara/speak-harness) - Free, local text-to-speech companion for coding-agent transcripts and Markdown files, with Kokoro English and Piper Brazilian Portuguese voices, a browser dashboard, and a terminal reader. Tested on NixOS x86_64.
 
 ## Mobile Apps
 
