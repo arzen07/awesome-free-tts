@@ -25,6 +25,7 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [Text2Speech.org](https://text2speech.org/) - Simple online TTS converter. Free tier: Completely free with no registration.
 - [FreeTTS](https://freetts.com/) - Free online text-to-speech converter. Free tier: Free online text-to-speech with character limits.
 - [Uberduck](https://uberduck.ai/) - AI voice synthesis platform with voice cloning. Free tier: Free to use with limitations on voice cloning.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser and formatter (not a TTS tool; a free browser-based developer utility). Free tier: Completely free with no registration.
 
 ### Services with More Restricted Free Tiers
 
