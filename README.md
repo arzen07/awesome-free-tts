@@ -90,6 +90,10 @@ A comprehensive collection of free TTS solutions for developers, content creator
 - [Kurzweil 3000](https://www.kurzweiledu.com/) - Reading and writing software with TTS capabilities.
 - [Read&Write](https://www.texthelp.com/en-us/products/read-write/) - Literacy software with TTS features.
 
+### Communication & AAC Tools
+
+- [SilentVoice](https://github.com/blaite164/SilentVoice-TTS) - Free, open-source real-time TTS desktop app for non-verbal users, gamers, and VTubers with local/cloud voices, AI typo correction, game-safe overlay, and OBS subtitles. Windows, GPL-3.0 License.
+
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
